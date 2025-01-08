@@ -1,3 +1,6 @@
 - Spinach
 - Chicken
 - Garlic
+- Cinnamon
+- Cumin
+- Pepper
