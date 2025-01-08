@@ -4,3 +4,5 @@
 - Cinnamon
 - Cumin
 - Pepper
+- Soy Sauce
+- Mirin
